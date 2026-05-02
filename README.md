@@ -1,5 +1,6 @@
 <div align="center">
-<img src="jamie-de-vera.png" width="60%" style="display:block;" /></div>
+  <img src="https://raw.githubusercontent.com/jamiedevera/jamiedevera/main/jamie-de-vera.png" width="100%" />
+</div>
 
 <br/>
 

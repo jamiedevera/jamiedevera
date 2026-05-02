@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/jamiedevera/jamiedevera/main/jamie-de-vera.png" width="100%" />
 </div>
 
-<br/>
-
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=F7F7F7FF&center=true&vCenter=true&width=700&lines=+✧BSA+Intern+%7C+Aspiring+Security+Engineer✧;+✧Exploring+Cybersecurity+%26+System+Security✧" alt="Typing SVG" />
 </div>

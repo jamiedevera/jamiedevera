@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=000000FF&center=true&vCenter=true&width=700&lines=+✧BSA+Intern+%7C+Aspiring+Security+Engineer✧;+✧Exploring+Cybersecurity+%26+System+Security✧" alt="Typing SVG" />
+
+<!-- LIGHT MODE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=000000FF&center=true&vCenter=true&width=700&lines=01001010+01100001+01101101+01101001+01100101;Hi,+I'm+Jamie;Welcome+to+my+profile#gh-light-mode-only" />
+
 </div>
 
 <br/>
